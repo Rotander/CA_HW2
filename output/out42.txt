@@ -1,0 +1,2 @@
+Filtered container:
+3: It is Ball: r = 32. Volume = 4289.32
